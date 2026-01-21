@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I’m Hensy Patel
+
+Web Developer focused on building reliable and well-structured web applications using HTML, CSS, JavaScript, and PHP.
 
 <!--
 **hensy19/hensy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
